@@ -1,6 +1,6 @@
 # [HTML5]Pong
 
-Use W ,S ,d key Up and key Down.
+Use W ,S , key Up and key Down.
 
 * jQuery: MIT/GPL license
 * Modernizr: MIT/BSD license
