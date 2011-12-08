@@ -292,13 +292,13 @@ td { vertical-align: top; }
 
 
 
-  #playground{
-    background: #e0ffe0;
-    width: 400px;
-    height: 200px;
-    position: relative;
-    overflow: hidden;
-  }
+#playground{
+  background: #e0ffe0 url(../img/pixel_grid.jpg);
+  width: 400px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+}
   #ball {
     background: #fbb;
     position: absolute;
