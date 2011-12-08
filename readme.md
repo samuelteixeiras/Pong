@@ -1,4 +1,4 @@
-# [HTML5]Pong
+# [HTML5] Pong
 
 Use W ,S , key Up and key Down.
 
@@ -6,9 +6,6 @@ Use W ,S , key Up and key Down.
 * Modernizr: MIT/BSD license
 * Respond.js: MIT/GPL license
 
-
 # html5 game development by example
 
-### Everything else:
 
-The Unlicense (aka: public domain)
