@@ -1,5 +1,7 @@
 # [HTML5] Pong
 
+http://samuelteixeiras.github.io/Pong/
+
 Use W ,S , key Up and key Down.
 
 * jQuery: MIT/GPL license
